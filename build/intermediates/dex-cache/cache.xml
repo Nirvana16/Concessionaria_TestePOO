@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_cb762917124ad45a5d308104f2774967e0ec6766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_cd95adeb700ef6e5489a9e04a77a83d41674dc2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_e1f4368a255cd5ba57fd4bebc5d195dde25cd904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_6abddfb8652f6a786106531941024eae05c7b0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_8a561845659460418dc8f2a18274eb959633d212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_2a77a3465a82f3dd9c2a405e855a118d8f0cc83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_06381ce28553d78bde0f38c9a53bffc25155c495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_cbc5793b14858800e30b8b3ff80d79aee23ce443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_42fa1101b8673bc472ca3ebdd77242beb645d999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_5e869e9d8af90e2992c93a57540b45eb66a013e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_a3fc1b730ad7ae33e7ba543e91b83ce1d9c2013f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_18f407242cb571a9856c882daabdfe504d6ca8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_9238fc94efb2b1e1be7eb162d08447b4c5d1b51e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_6325768cbe312aac6d053b741b04a64b2df51617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_e8c338138594efe394c0df7b4ca5037225af68c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_20ae3472ad9597815e4f30c4d2558bc0a03433dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_ed143af3cb8138d5f978509b7d32ee3ef6d771cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_47fed15a17d87d55e1d818816ac5da12a8942cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_ae547fdc1f2af8b989712fcde75221f466985494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.5_5b79a56dfae9d80d8c27a4132ccab8c6aaa3d0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_897813ca2cd32437e64a62e1fd3b21eb83c13ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_370b622abb063a23b3a4ccb4024beebf25abcd74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_d997a16974c31220055ea94c237e014a30141bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_9d76e81fa92f6e3fd92a9c1174f467ac50e20ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.5_37d2deabbb7adf009a6f5cc1635662f7930938d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_9bb5e511accae520fcd4bebf0309a497644e9eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_37c645d01b876f8b9c778e0dea31019550080c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_c901a9b80ab32c9605c0b5a8c61e80e04f60d5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_2f13a34c0e5608883cacb3c947fa43930ffb7fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_d35f149788b326d4699bbdd9e95c03b9635393db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_705d101a26267b4f9663d66ed8b55bcfd5aadc71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/boris/AndroidStudioProjects/Concessionaria_TestePOO/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_bc7e238cd0c11db574353215fbf64ca76620b443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/boris/Downloads/TestePoo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/boris/Downloads/TestePoo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_8f3f2edb4bac40e589645ffd3ed9ff278f2d5016.jar" />
+    </item>
+
+</items>
